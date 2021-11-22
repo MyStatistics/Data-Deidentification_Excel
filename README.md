@@ -1,2 +1,2 @@
 # Data-Deidentification_Excel 
-These two datasets are similated
+These two datasets are simulated.
